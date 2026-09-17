@@ -4,7 +4,7 @@ Ganhe dinheiro criando sites e landing pages sem saber programar.
 
 ## Como Acessar
 
-Abra `public/index.html` no seu navegador.
+Acesse https://projeto-vivendo-de-ia.vercel.app/
 
 ## Estrutura
 
